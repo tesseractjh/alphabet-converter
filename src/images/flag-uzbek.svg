@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750" height="500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="m0 0h750v500h-750z" style="fill:#1eb53a;stroke-width:.86603"/>
+<path d="m0 0h750v250h-750z" style="fill:#0099b5;stroke-width:.86603"/>
+<path d="m0 160h750v180h-750z" style="fill:#ce1126;stroke-width:.86603"/>
+<path d="m0 170h750v160h-750z" style="fill:#ffffff;stroke-width:.86603"/>
+<circle cx="120" cy="80" r="60" style="fill:#ffffff"/>
+<circle cx="140" cy="80" r="60" style="fill:#0099b5"/>
+<g transform="matrix(2,0,0,2,252,128)" style="fill:#ffffff">
+<g id="e">
+<g id="d">
+<g id="c">
+<g id="b">
+<path id="a" transform="rotate(18,0,-6)" d="m0-6v6h3"/>
+<use transform="scale(-1,1)" width="100%" height="100%" xlink:href="#a"/>
+</g>
+<use transform="rotate(72)" width="100%" height="100%" xlink:href="#b"/>
+</g>
+<use transform="rotate(-72)" width="100%" height="100%" xlink:href="#b"/>
+<use transform="rotate(144)" width="100%" height="100%" xlink:href="#c"/>
+</g>
+<use y="-24" width="100%" height="100%" xlink:href="#d"/>
+<use y="-48" width="100%" height="100%" xlink:href="#d"/>
+</g>
+<use x="24" width="100%" height="100%" xlink:href="#e"/>
+<use x="48" width="100%" height="100%" xlink:href="#e"/>
+<use x="-48" width="100%" height="100%" xlink:href="#d"/>
+<use x="-24" width="100%" height="100%" xlink:href="#d"/>
+<use x="-24" y="-24" width="100%" height="100%" xlink:href="#d"/>
+</g>
+</svg>
